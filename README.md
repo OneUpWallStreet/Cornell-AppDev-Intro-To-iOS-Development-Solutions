@@ -5,11 +5,11 @@ Hey 👋🏻, I made this repository to upload the code for Cornell-AppDev's Int
 ## Code 
  
 1. Lecture 2 
-    - [Lecture Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%202%20-%20UIKit%20and%20AutoLayout)
+    - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%202%20-%20UIKit%20and%20AutoLayout)
 2. Lecture 3
-    - [Lecture Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%203%20-%20Navigation%2C%20MVC%2C%20Delegation)
+    - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%203%20-%20Navigation%2C%20MVC%2C%20Delegation)
 3. Lecture 4 
-    - [Lecture Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%204%20-%20UITableView)
+    - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%204%20-%20UITableView)
  
 ## CheckList
  
