@@ -10,6 +10,8 @@ Hey 👋🏻, I made this repository to upload the code for Cornell-AppDev's Int
     - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%203%20-%20Navigation%2C%20MVC%2C%20Delegation)
 3. Lecture 4 
     - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%204%20-%20UITableView)
+4. Lecture 5
+    - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%205%20-%20UICollectionView)
  
 ## CheckList
  
