@@ -15,7 +15,7 @@ Hey 👋🏻, I made this repository to upload the code for Cornell-AppDev's Int
 5. Lecture 6 
     - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Lecture%206%20-%20Networking%20Part%20I%20%26%20SnapKit)
     
-6 Personal Demo (Bad) 
+6. Personal Demo (Bad) 
     - [Code](https://github.com/OneUpWallStreet/Cornell-AppDev-Intro-To-iOS-Development-Solutions/tree/master/Simple%20Demo%20for%20Lectures%203%2C4%20%26%205)
  
 ## CheckList
